@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+chromadb
+sentence-transformers
+nltk
+requests
+python-dotenv
